@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/MauricioBorawski/api-design-node/issues"
   },
-  "homepage": "https://github.com/MauricioBorawski/api-design-node#readme"
+  "homepage": "https://github.com/MauricioBorawski/api-design-node#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
 }
